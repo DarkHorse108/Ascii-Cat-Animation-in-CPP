@@ -1,2 +1,2 @@
-# OSU-CS290
-Repository for Projects related to Oregon State University CS290 Web Development
+# Projects in C++
+Repository for non-school related personal projects created in C++ during participation in post-Bacc Computer Science Program at Oregon State University
